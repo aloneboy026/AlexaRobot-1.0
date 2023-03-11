@@ -79,17 +79,17 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[ᴀʟᴇxᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ](https://telegra.ph/file/a39d85b972b38e2d5fd91.jpg)』
+ ──『[ʟᴜᴄᴋʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ](https://telegra.ph/file/a39d85b972b38e2d5fd91.jpg)』
 
 *ʜᴇʟʟᴏ ʙᴜᴅᴅʏ ❣️ !*
-✪ ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 😔
+✪ ɪ ᴀᴍ ʟᴜᴄᴋʏ sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 😔
 ────────────────────────
-× *ᴀʟᴇxᴀ ɪs ᴀ ɴᴀᴍᴇ ᴏғ sᴜᴄᴄᴇss ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ*
+× *ʟᴜᴄᴋʏ ʙᴏᴛ ɪs ᴀ ɴᴀᴍᴇ ᴏғ sᴜᴄᴄᴇss ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ*
 × *ғɪʀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ sǫʟ ᴀɴᴅ ᴍᴏɴɢᴏᴅʙ ᴅᴀᴛᴀʙsᴀᴇ*
 ────────────────────────
 ✪ ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ ✌️.
 ────────────────────────
-✪ [CHANNEL](t.me/AsadSupport) - [SUPPORT](t.me/Shayri_Music_Lovers)
+✪ [CHANNEL](t.me/mondoclub) - [SUPPORT](t.me/luckuclub16)
 ────────────────────────
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
@@ -102,29 +102,29 @@ PMSTART_CHAT = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="💖 ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💖",
+                            text="💖 ᴀᴅᴅ ʟᴜᴄᴋʏ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💖",
                             url="t.me/ALEXA_MANAGEMENTBOT?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="💌 ᴋɪɴɢ", url="t.me/HarshitSharma361"),
-                       InlineKeyboardButton(text="💌 ғᴇᴅ", url="t.me/Part_Of_Rocks"),
+                       InlineKeyboardButton(text="🙄 ᴋɪɴɢ", url="t.me/HarshitSharma361"),
+                       InlineKeyboardButton(text="🦄 ғᴇᴅ", url="t.me/Part_Of_Rocks"),
                      ],
                     [                  
                        InlineKeyboardButton(
-                             text="💌 ᴏᴡɴᴇʀ",
-                             url=f"https://t.me/Dr_Assad_Ali"),
+                             text="🎀 ᴏᴡɴᴇʀ",
+                             url=f"https://t.me/matna_setha"),
                        InlineKeyboardButton(
-                             text="💌 ɴᴇᴛᴡᴏʀᴋ",
-                             url=f"https://t.me/Shayri_Music_Lovers"),
+                             text="📌 ɴᴇᴛᴡᴏʀᴋ",
+                             url=f"https://t.me/luckuclub16"),
                         ],
                        [
-                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ", url="t.me/Give_Me_Heart"
+                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ", url="t.me/NainaBots"
          ),
     ],
 ]
 
 HELP_STRINGS = """
-✪ ʜᴇʏ ᴛʜᴇʀᴇ, ɪ'ᴍ *ʀᴏᴄᴋs ᴀʟᴇxᴀ*!
+✪ ʜᴇʏ ᴛʜᴇʀᴇ, ɪ'ᴍ *ʟᴏᴠᴇ ʟᴜᴄᴋʏ*!
 ✪ ɪ'ᴍ ᴜsᴇʟᴇss ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ᴍᴀᴋᴇ ᴍᴇ ғᴜɴᴄᴛɪᴏɴᴀʟ, ᴛʜᴇɴ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ʀᴜɴ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ────────────────────────
 ✪ - /start: *sᴛᴀʀᴛs ᴍᴇ! ʏᴏᴜ'ᴠᴇ ᴘʀᴏʙᴀʙʟʏ ᴀʟʀᴇᴀᴅʏ ᴜsᴇᴅ ᴛʜɪs.*
@@ -273,8 +273,8 @@ def start(update: Update, context: CallbackContext):
         reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="💌 ᴋɪɴɢ ", url=f"t.me/Dr_Assad_Ali"),
-                  InlineKeyboardButton(text="😎 ᴜᴘᴅᴀᴛᴇs ", url=f"t.me/AsadSupport"),
+                  InlineKeyboardButton(text="💌 ᴋɪɴɢ ", url=f"t.me/solo_attituess"),
+                  InlineKeyboardButton(text="😎 ᴜᴘᴅᴀᴛᴇs ", url=f"t.me/mondolover"),
                   ]
                 ]
             ),
@@ -353,7 +353,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ* © [ᴅʀ ᴀsᴀᴅ ᴀʟɪ](t.me/Dr_Assad_Ali) *ᴀɴᴅ* [ʜᴀʀsʜɪᴛ sʜᴀʀᴍᴀ](t.me/HarshitSharma361)\n*ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ {} ᴍᴏᴅᴜʟᴇs:*\n".format(
+                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ* © [ᴍᴏɴᴅᴏ](t.me/matna_setha) *ᴀɴᴅ* [ʟᴜᴄᴋʏ ᴄʜᴀᴛ](t.me/NainaBots)\n*ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ {} ᴍᴏᴅᴜʟᴇs:*\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -713,7 +713,7 @@ def main():
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
                 "https://telegra.ph/file/36be820a8775f0bfc773e.jpg",
-                caption="「 ᴀʟᴇxᴀʀᴏʙᴏᴛ 」 ɪs ᴀʟɪᴠᴇ ✌️!\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ᴀɴᴅ @AsadSupport 🤏",
+                caption="「 ʟᴜᴄᴋʏʀᴏʙᴏᴛ 」 ɪs ᴀʟɪᴠᴇ ✌️!\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ᴀɴᴅ @luckyclub16 🤏",
             )
         except Unauthorized:
             LOGGER.warning(
