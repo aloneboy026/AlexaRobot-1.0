@@ -94,10 +94,10 @@ PM_START_TEXT = """
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
-    "[ɢᴇᴛ ʙᴜsʏ ʟɪᴠɪɴɢ ᴏʀ ɢᴇᴛ ʙᴜsʏ ᴅʏɪɴɢ!!!](https://telegra.ph/file/f821830759461370f68d9.jpg)",
-    "[ɪ'ᴍ ᴅʀ ᴀsᴀᴅ ᴀʟɪ ᴘʀᴏᴊᴇᴄᴛ](https://telegra.ph/file/85e4f39239fd84a27d138.jpg)",
-    "[ᴛᴜʀɴ ʏᴏᴜʀ ᴡᴏᴜɴᴅs ɪɴᴛᴏ ᴡɪsᴅᴏᴍ 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
-    "[ʜᴀʜᴀʜᴀᴀ ɪ ᴀᴍ ᴀʟᴇx!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
+    "[ɢᴇᴛ ʙᴜsʏ ʟɪᴠɪɴɢ ᴏʀ ɢᴇᴛ ʙᴜsʏ ᴅʏɪɴɢ!!!](https://te.legra.ph/file/f5c986e717445209a4a11.png)",
+    "[ɪ'ᴍ ᴅʀ ᴀsᴀᴅ ᴀʟɪ ᴘʀᴏᴊᴇᴄᴛ](https://te.legra.ph/file/a374667b940a9ae916558.png)",
+    "[ᴛᴜʀɴ ʏᴏᴜʀ ᴡᴏᴜɴᴅs ɪɴᴛᴏ ᴡɪsᴅᴏᴍ 🔥](https://te.legra.ph/file/c4e5230b523e952b27570.png)",
+    "[ʜᴀʜᴀʜᴀᴀ ɪ ᴀᴍ ᴀʟᴇx!!!!](https://te.legra.ph/file/f85503d8f22a278b9fd5d.png)", )
 
 buttons = [
     [
