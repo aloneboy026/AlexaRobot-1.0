@@ -145,11 +145,11 @@ DONATE_STRING = """ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ ᴘʀᴇᴛᴛʏ [ᴏᴡɴ�
 HELP_IMG= "https://te.legra.ph/file/662ea8510f8ec269914f2.png"
 GROUPSTART_IMG= "https://te.legra.ph/file/062d739e12585c1a70c40.png"
 
-PM_IMG = ( "https://telegra.ph/file/8d2bf852a53bd13fb8037.jpg",
-           "https://telegra.ph/file/6f43301a3e43d20f7906a.jpg",
-           "https://telegra.ph/file/c71c9940f27143f1d6b7b.jpg",
-           "https://telegra.ph/file/93aa52512ccd256888b28.jpg",
-           "https://telegra.ph/file/0d7fd638c3c2ea21176a1.jpg", )
+PM_IMG = ( "https://te.legra.ph/file/db59731ad7127519a5b6e.png",
+           "https://te.legra.ph/file/2e595b8b0a1b6575d6f7e.png",
+           "https://te.legra.ph/file/06fd19937ff40824715f3.png",
+           "https://te.legra.ph/file/db1c9969537263c49c2be.png",
+           "https://te.legra.ph/file/2b4735e7ccc1dd1291e81.png", )
 
 
 IMPORTED = {}
