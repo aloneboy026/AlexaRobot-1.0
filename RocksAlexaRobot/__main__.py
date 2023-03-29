@@ -79,7 +79,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[ʟᴜᴄᴋʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ](https://telegra.ph/file/a39d85b972b38e2d5fd91.jpg)』
+ ──『[ʟᴜᴄᴋʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ](https://te.legra.ph/file/7d28ea0bba30c9960b2e4.png)』
 
 *ʜᴇʟʟᴏ ʙᴜᴅᴅʏ ❣️ !*
 ✪ ɪ ᴀᴍ ʟᴜᴄᴋʏ sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 😔
@@ -89,7 +89,7 @@ PM_START_TEXT = """
 ────────────────────────
 ✪ ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ ✌️.
 ────────────────────────
-✪ [CHANNEL](t.me/mondoclub) - [SUPPORT](t.me/luckuclub16)
+✪ [CHANNEL](t.me/mondoclub) - [SUPPORT](t.me/luckyclub16)
 ────────────────────────
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
@@ -131,8 +131,8 @@ HELP_STRINGS = """
 ✪ - /help: *sᴇɴᴅs ᴛʜɪs ᴍᴇssᴀɢᴇ; ɪ'ʟʟ ᴛᴇʟʟ ʏᴏᴜ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍʏsᴇʟғ!*
 ✪ - /donate: *ɢɪᴠᴇs ʏᴏᴜ ɪɴғᴏ ᴏɴ ʜᴏᴡ ᴛᴏ sᴜᴘᴘᴏʀᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ᴄʀᴇᴀᴛᴏʀ.*
 ────────────────────────
-✪ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴏʀ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏɴ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ: @AsadSupport ᴏʀ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](http://t.me/Jankari_Ki_Duniya)
-✪ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ: [(/),(!),(?),(.),(~)](https://telegra.ph/file/9d22fedee29fdefdb4862.jpg)
+✪ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴏʀ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏɴ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ: @mondocluv ᴏʀ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](http://t.me/ll_baby_ki26n_ll)
+✪ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ: [(/),(!),(?),(.),(~)](https://te.legra.ph/file/b450bf0d5cfa830702e2b.png)
 ✪ ʟɪsᴛ ᴏғ ᴀʟʟ ᴛʜᴇ ᴍᴏᴅᴜʟᴇs:
 ────────────────────────
 """.format(
@@ -141,9 +141,9 @@ HELP_STRINGS = """
 )
 
 HELP_MSG = "ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴍᴀɴᴜ ɪɴ ʏᴏᴜʀ ᴘᴍ."
-DONATE_STRING = """ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ ᴘʀᴇᴛᴛʏ [ᴏᴡɴᴇʀ](t.me/Dr_Asad_Ali)"""
-HELP_IMG= "https://telegra.ph/file/93aa52512ccd256888b28.jpg"
-GROUPSTART_IMG= "https://telegra.ph/file/35e730dea457c85cc367b.mp4"
+DONATE_STRING = """ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ ᴘʀᴇᴛᴛʏ [ᴏᴡɴᴇʀ](t.me/ll_baby_ki26n_ll)"""
+HELP_IMG= "https://te.legra.ph/file/662ea8510f8ec269914f2.png"
+GROUPSTART_IMG= "https://te.legra.ph/file/062d739e12585c1a70c40.png"
 
 PM_IMG = ( "https://telegra.ph/file/8d2bf852a53bd13fb8037.jpg",
            "https://telegra.ph/file/6f43301a3e43d20f7906a.jpg",
