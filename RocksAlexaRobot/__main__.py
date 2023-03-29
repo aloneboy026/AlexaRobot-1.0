@@ -106,16 +106,16 @@ buttons = [
                             url="t.me/ALEXA_MANAGEMENTBOT?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="🙄 ᴋɪɴɢ", url="t.me/HarshitSharma361"),
-                       InlineKeyboardButton(text="🦄 ғᴇᴅ", url="t.me/Part_Of_Rocks"),
+                       InlineKeyboardButton(text="🙄 ᴋɪɴɢ", url="t.me/mondo_lover"),
+                       InlineKeyboardButton(text="🦄 ғᴇᴅ", url="t.me/mondoclub"),
                      ],
                     [                  
                        InlineKeyboardButton(
                              text="🎀 ᴏᴡɴᴇʀ",
-                             url=f"https://t.me/matna_setha"),
+                             url=f"https://t.me/ll_baby_ki26n_ll"),
                        InlineKeyboardButton(
                              text="📌 ɴᴇᴛᴡᴏʀᴋ",
-                             url=f"https://t.me/luckuclub16"),
+                             url=f"https://t.me/luckyclub16"),
                         ],
                        [
                            InlineKeyboardButton(text="💓 ʟᴏᴠᴇ", url="t.me/NainaBots"
